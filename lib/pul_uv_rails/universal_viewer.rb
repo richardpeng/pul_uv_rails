@@ -1,3 +1,5 @@
+require 'singleton'
+
 module PulUvRails
   class UniversalViewer
     include Singleton

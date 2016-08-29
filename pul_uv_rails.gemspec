@@ -7,7 +7,7 @@ Gem::Specification.new do |spec|
   spec.name          = "pul_uv_rails"
   spec.version       = PulUvRails::VERSION
   spec.authors       = ["Eliot Jordan"]
-  spec.email         = ["eliotj@princeton.edu"]
+  spec.email         = ["eliot.jordan@gmail.com"]
 
   spec.summary       = "PUL Universal Viewer for rails projects."
   spec.description   = "Princeton University Library branded Universal Viewer for use in rails projects."
@@ -22,4 +22,5 @@ Gem::Specification.new do |spec|
   spec.add_development_dependency "bundler", "~> 1.12"
   spec.add_development_dependency "rake", "~> 10.0"
   spec.add_development_dependency "rspec", "~> 3.0"
+  spec.add_development_dependency "rspec-rails"
 end
