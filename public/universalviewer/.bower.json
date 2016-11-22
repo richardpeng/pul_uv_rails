@@ -1,6 +1,5 @@
 {
   "name": "Universal Viewer",
-  "version": "1.7.27",
   "description": "The Universal Viewer is an open source project to enable cultural heritage institutions to present their digital artifacts in an IIIF-compliant and highly customisable user interface.",
   "repository": {
     "type": "git",
@@ -17,24 +16,17 @@
   ],
   "dependencies": {},
   "devDependencies": {
-    "exjs": "BSick7/exjs",
-    "extensions": "edsilv/extensions",
-    "http-status-codes": "edsilv/http-status-codes",
-    "jquery-plugins": "edsilv/jquery-plugins",
-    "jquery-tiny-pubsub": "edsilv/jquery-tiny-pubsub",
-    "key-codes": "edsilv/key-codes",
-    "utils": "edsilv/utils",
     "uv-cy-GB-theme": "universalviewer/uv-cy-GB-theme",
     "uv-en-GB-theme": "pulibrary/uv-en-GB-theme"
   },
   "homepage": "https://github.com/pulibrary/universalviewer",
-  "_release": "1.7.27",
+  "_release": "fe7a66a49a",
   "_resolution": {
-    "type": "version",
-    "tag": "v1.7.27",
-    "commit": "51b1abba390e76840a0c58beb4be59b49542702f"
+    "type": "branch",
+    "branch": "pulibrary_dev",
+    "commit": "fe7a66a49af52bf8a2c7d952d101ce1da35ae215"
   },
   "_source": "git://github.com/pulibrary/universalviewer.git",
-  "_target": "v1.7.27",
+  "_target": "pulibrary_dev",
   "_originalSource": "pulibrary/universalviewer"
 }

@@ -1,3 +1,3 @@
 module PulUvRails
-  VERSION = '1.7.27'.freeze
+  VERSION = '1.8.42'.freeze
 end
