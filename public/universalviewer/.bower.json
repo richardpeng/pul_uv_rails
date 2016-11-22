@@ -20,11 +20,11 @@
     "uv-en-GB-theme": "pulibrary/uv-en-GB-theme"
   },
   "homepage": "https://github.com/pulibrary/universalviewer",
-  "_release": "fe7a66a49a",
+  "_release": "26f860254b",
   "_resolution": {
     "type": "branch",
     "branch": "pulibrary_dev",
-    "commit": "fe7a66a49af52bf8a2c7d952d101ce1da35ae215"
+    "commit": "26f860254bb8e4dd5505b46b575be17afc5357e5"
   },
   "_source": "git://github.com/pulibrary/universalviewer.git",
   "_target": "pulibrary_dev",
