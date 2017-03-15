@@ -20,13 +20,13 @@
     "uv-en-GB-theme": "pulibrary/uv-en-GB-theme"
   },
   "homepage": "https://github.com/pulibrary/universalviewer",
-  "_release": "26f860254b",
+  "_release": "8f6c03764d",
   "_resolution": {
     "type": "branch",
-    "branch": "pulibrary_dev",
-    "commit": "26f860254bb8e4dd5505b46b575be17afc5357e5"
+    "branch": "pulibrary_dev_updated",
+    "commit": "8f6c03764d0dac19191566db0a1859fe88ea39a3"
   },
   "_source": "git://github.com/pulibrary/universalviewer.git",
-  "_target": "pulibrary_dev",
+  "_target": "pulibrary_dev_updated",
   "_originalSource": "pulibrary/universalviewer"
 }
