@@ -1,8 +1,9 @@
 #################
-## Bower Components
+## libs
 #################
 
 lib
+src/lib/bundle.min.js
 !src/lib
 !src/extensions/**/lib
 !dist/**/lib
@@ -12,18 +13,13 @@ lib
 #################
 
 .tscache
+typings
 
 #################
 ## Webstorm
 #################
 
 .idea
-
-#################
-## VSCode
-#################
-
-##.vscode
 
 #################
 ## Node
