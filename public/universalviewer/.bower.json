@@ -17,7 +17,7 @@
   "dependencies": {},
   "devDependencies": {
     "uv-cy-GB-theme": "universalviewer/uv-cy-GB-theme",
-    "uv-en-GB-theme": "pulibrary/uv-en-GB-theme"
+    "uv-en-GB-theme": "richardpeng/uv-en-GB-theme"
   },
   "homepage": "https://github.com/pulibrary/universalviewer",
   "_release": "8f6c03764d",
